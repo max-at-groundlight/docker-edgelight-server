@@ -1,4 +1,4 @@
-fastapi==0.95.2
+fastapi==0.109.1
 uvicorn[standard]
 groundlight
 opencv-python==4.8.0.74
